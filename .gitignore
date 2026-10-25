@@ -1,0 +1,19 @@
+# Java compiled files
+*.class
+
+# Maven build output
+target/
+
+# IntelliJ temporary files
+.idea/
+*.iml
+
+# SQLite database and backups
+shoppos.db
+shoppos.db-shm
+shoppos.db-wal
+*.db-journal
+
+# Operating system files
+.DS_Store
+Thumbs.db
